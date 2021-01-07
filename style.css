@@ -5,6 +5,8 @@ body{
 h1{
     font-size: 50px;
 }
-.high-light{
-    overflow-clip-box: orange;
+
+.name-color{
+    color: rgb(255, 0, 0);
 }
+
